@@ -4,8 +4,9 @@ install sonarQube And jenkins on server
 ```
 docker-compose up -d
 ```
->you can see sonarQube with [http://your-ip:9000]
->and you can jenkins with [http://you-ip:8080] 
+you can see sonarQube with [http://your-ip:9000](http://your-ip:9000)
+
+and you can jenkins with [http://you-ip:8080](http://your-ip:9000)
 
 if you want password jenkins you must run this command and get password on it
 ```
