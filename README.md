@@ -48,5 +48,7 @@ sonar-scanner -v
 ```
 
 # References
-* [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner))
+* [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner)
+* [SonarQube](https://hub.docker.com/_/sonarqube)
+* [jenkins](https://hub.docker.com/r/jenkins/jenkins)
 
