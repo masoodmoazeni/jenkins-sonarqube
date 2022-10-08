@@ -1,4 +1,4 @@
-# jenkins-sonarqube
+# jenkins-sonarqube-sonar scanner
 install sonarQube And jenkins on server
 
 ```
@@ -46,4 +46,7 @@ and the end
 ```
 sonar-scanner -v
 ```
+
+# References
+* [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner))
 
